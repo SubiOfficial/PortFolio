@@ -1,0 +1,16 @@
+console.log("Wellcome To SubiOfficial")
+console.log(123456)
+console.log(23.04)
+console.log(true)
+console.log([2304,234])
+console.log({aname:"Subi",age:2304})
+console.table({aname:"Subi",age:2304})
+console.error("Sorry do like that")
+console.warn("hello do like that")
+console.clear()
+console.time("timer")
+for(i=0;i<4;i++)
+    {
+        console.log(i)
+    }
+console.timeEnd("timer")
